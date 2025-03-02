@@ -3,8 +3,8 @@
 
 
 Taskify is a robust task management application that helps users efficiently organize, track, and analyze their tasks. This project implements all the required features and functionalities as per the provided specifications.
-## Frontend Deployed: https://taskify-frontend-rlw0.onrender.com
-## Backend Deployed: https://taskifybackend-nb48.onrender.com
+## Frontend Deployed: https://taskify-frontend-wh06.onrender.com
+## Backend Deployed: https://taskfy-ab14.onrender.com
 
 
 ## Features Implemented
